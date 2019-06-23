@@ -1,0 +1,21 @@
+@import '../../styles/variables';
+@import '../../styles/fonts';
+
+label {
+  @include roboto-bold;
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  @include roboto-regular;
+  width: 260px;
+  height: 40px;
+  padding-left: 9.6px;
+  border-radius: 5px;
+  border: solid 1px $dark-gray;
+  background-color: $white;
+  color: $gray;
+  font-size: 16px;
+  line-height: 19px;
+}
