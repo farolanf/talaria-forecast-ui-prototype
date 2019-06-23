@@ -1,4 +1,7 @@
 <div>
-  <label for=''>{{ label }}</label>
-  <input type='text' placeholder=''>
+  <label [for]="id">{{ label }}</label>
+  <div class="input-container">
+    <input [id]="id" [type]="internalType || type" placeholder="">
+    <button *ngIf="type === 'password'" class="show" (click)="onShow()">Show</button>
+  </div>
 </div>

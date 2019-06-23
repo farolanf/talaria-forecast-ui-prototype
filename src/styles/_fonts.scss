@@ -30,3 +30,8 @@
 @mixin roboto-bold {
   font-family: 'roboto-bold', sans-serif;
 }
+
+@mixin font-size-md {
+  font-size: 16px;
+  line-height: 19px;
+}
