@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'styles/fonts';
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  @include roboto-regular;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 42px;
+}

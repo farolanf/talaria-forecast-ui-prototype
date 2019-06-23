@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="114" viewBox="0 0 114 114">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#fff}.cls-4{clip-path:url(#clip-path-2)}.cls-5{fill:#6400aa}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_212" d="M0 0h114v114H0z" class="cls-1" data-name="Rectangle 212"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_213" d="M0 0h99.794v99.794H0z" class="cls-1" data-name="Rectangle 213"/>
+        </clipPath>
+    </defs>
+    <g id="Group_289" data-name="Group 289" transform="translate(-122.166 -253.452)">
+        <g id="Group_240" data-name="Group 240" transform="translate(122.166 253.452)">
+            <g id="Group_239" class="cls-2" data-name="Group 239">
+                <circle id="Ellipse_15" cx="56.36" cy="56.36" r="56.36" class="cls-3" data-name="Ellipse 15" transform="translate(.64 .64)"/>
+            </g>
+        </g>
+        <g id="Group_242" data-name="Group 242" transform="translate(129.269 260.555)">
+            <g id="Group_241" class="cls-4" data-name="Group 241">
+                <path id="Path_97" d="M49.257 0A49.257 49.257 0 1 1 0 49.257 49.257 49.257 0 0 1 49.257 0z" class="cls-5" data-name="Path 97" transform="translate(.64 .64)"/>
+            </g>
+        </g>
+        <g id="Group_243" data-name="Group 243" transform="translate(145.846 288.502)">
+            <path id="Path_95" d="M165.485 267.595v5.323h-13.809v38.577h-6.144v-38.577h-13.811v-5.323z" class="cls-3" data-name="Path 95" transform="translate(-131.721 -267.595)"/>
+            <path id="Path_96" d="M174.368 306.174v5.321h-26.416v-43.9h6.148v38.579z" class="cls-3" data-name="Path 96" transform="translate(-107.727 -267.595)"/>
+        </g>
+    </g>
+</svg>
