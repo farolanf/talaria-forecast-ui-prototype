@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { LoginPageComponent } from './login-page/login-page.component';
 import { InputComponent } from './input/input.component';
 import { CheckboxComponent } from './checkbox/checkbox.component';
+import { ButtonComponent } from './button/button.component';
 
 @NgModule({
    declarations: [
       AppComponent,
       LoginPageComponent,
       InputComponent,
-      CheckboxComponent
+      CheckboxComponent,
+      ButtonComponent
    ],
    imports: [
       BrowserModule,

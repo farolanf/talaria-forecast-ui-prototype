@@ -1,0 +1,13 @@
+@import '../../styles/all';
+
+button {
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  border: solid 1px $violet-blue;
+  background-color: $violet-blue;
+  color: $white;
+  font-size: 17px;
+  line-height: 20px;
+  cursor: pointer;
+}
